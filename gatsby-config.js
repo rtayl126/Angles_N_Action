@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Angles-N-Action`,
+    author: 'Ryan Taylor',
     menuLinks:[
-      +   { name:'Home',
+         { name:'Home',
             link:'/'
           },
           { name:'About Us',
